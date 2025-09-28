@@ -36,7 +36,7 @@ Isso facilita comparar e entender rapidamente a evolução.
 
 Este playground complementa o artigo que detalha todas as mudanças do Java 21 → 25 em um guia prático:
 
-👉 [Link do artigo aqui]
+👉 [Link do artigo aqui](https://dev.to/ed-wantuil/java-25-tudo-que-mudou-desde-o-java-21-em-um-guia-pratico-1b5n)
 
 ## 💡 Por que esse repo existe?
 
