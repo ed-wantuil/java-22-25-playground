@@ -5,10 +5,7 @@ import module java.base;
 /**
  * Depois do JEP 511 — import module (conceitual + código executável).
  *
- * Observação: A sintaxe 'import module' pode não estar disponível no compilador atual.
- * Por isso, abaixo imprimimos o snippet com 'import module java.base;' e,
- * em seguida, executamos um exemplo real usando tipos exportados por java.base
- * com imports tradicionais, para você ver o efeito prático.
+ * Observação: A sintaxe 'import module' pode não estar disponível na ide atual.
  */
 public final class Jep511DepoisExample {
 
